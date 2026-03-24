@@ -1,0 +1,24 @@
+Database  -->SQLite
+
+Table-1 : accounts
+    Fields(column)
+        acno integer primary key autoincrement
+        name text
+        password text
+        aadhar text
+        pan text
+        email text
+        mob text
+        bal float
+        adr text
+        dob text
+        opendate text
+
+Table-2: txn_history
+    acno integer fk
+    amt float
+    type text
+    upbal float
+    txndate text
+    txnid integer autoincrement
+    

@@ -1,0 +1,8 @@
+python and its modules:
+    pillow
+    tkinter
+    tkcalendar
+    gmail
+
+SQLite(for backend)
+VS Code (as Interpreter)
