@@ -1,6 +1,11 @@
 *Important Note*---> Admin login credential> account no= 0
                                              password= 0   
+{ How to Run On Your PC:
+                      a. You have installed python3 on your pc as well as in VS code.
+                      b. Install its all essential libraries give on the top the the main code file.
+                      c. Install sqlite on ur pc. }
 
+						
 Banking Automation System:
 Intro: In the bank all the activities are being done manually .As the bank widens its services & it finds difficult to manage its operations manually and hence this leads to the automation of some of its operations.
        Banking Information system is a windows based applications. This project mainly deals with managing accounts and their related operations .
